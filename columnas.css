@@ -7,7 +7,7 @@ body {
   grid-template-columns: 25% 200px 25%;
 }
 .item{
-    background: greenyellow;
+    background: coral;
     padding: 10px;
     border: 1px solid blue;
 }
