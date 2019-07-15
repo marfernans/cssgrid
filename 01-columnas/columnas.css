@@ -6,8 +6,8 @@ body {
   display: grid;
   grid-template-columns: 25% 200px 25%;
 }
-.item{
-    background: greenyellow;
-    padding: 10px;
-    border: 1px solid  mediumslateblue;
+.item {
+  background: greenyellow;
+  padding: 10px;
+  border: 1px solid mediumslateblue;
 }
