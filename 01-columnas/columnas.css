@@ -1,5 +1,5 @@
 body {
-  font-family: Arial;
+  font-family: 'Source Code Pro', monospace;
 }
 
 .container {
@@ -9,5 +9,5 @@ body {
 .item {
   background: greenyellow;
   padding: 10px;
-  border: 1px solid rgb(61, 33, 223);
+  border: 1px solid mediumslateblue;
 }
